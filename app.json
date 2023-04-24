@@ -1,4 +1,16 @@
 {
-  "name": "AwesomeProject2",
-  "displayName": "AwesomeProject2"
+  "expo": {
+    "name": "codemagicSample",
+    "slug": "codemagicSample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "io.codemagic.dtrdic4"
+    },
+    "android": {
+      "package": "io.codemagic.dtrdic4"
+    }
+  }
 }
