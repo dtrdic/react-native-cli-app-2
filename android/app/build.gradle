@@ -93,9 +93,8 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.awesomeproject2"
     defaultConfig {
-        applicationId "com.awesomeproject2"
+        applicationId "io.codemagic.dtrdic4"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
